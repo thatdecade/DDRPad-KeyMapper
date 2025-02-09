@@ -1,0 +1,22 @@
+{
+    "VID": "0x0B43",
+    "PID": "0x0001",
+    "keymap": {
+        "B0": "y",
+        "B1": "a",
+        "B2": "b",
+        "B3": "x",
+        "B4": null,
+        "B5": null,
+        "B6": null,
+        "B7": null,
+        "B8": "esc",
+        "B9": "enter",
+        "B10": null,
+        "B11": null,
+        "B12": "up",
+        "B13": "right",
+        "B14": "down",
+        "B15": "left"
+    }
+}
