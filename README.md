@@ -2,8 +2,8 @@
 
 This script maps a HID "USB Input Device" button presses to keyboard key presses in real-time. 
 
-* Reads raw HID data from the dance pad
-* Decodes button presses from raw USB reports  
+* Reads raw data from any HID USB Device (not just gamepads)
+* Configurable button map to decode button presses from raw USB reports  
 * Simulates keyboard input to work in any game  
 
 Implementation is a proof of concept. Good enough for my game skill level at least. Polling could be faster using direct OS event injection, submit a pull request if you have a better way.
