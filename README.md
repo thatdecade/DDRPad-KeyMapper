@@ -33,6 +33,11 @@ Remember: **Press Ctrl+C to exit**
    - Press each button on the gamepad and note which button is which name.
    - Modify `keymap.json` to map buttons to the desired keyboard keys.
 
+3. **Play your Game!**  
+   - Now run the script in normal mode to to play your game:  
+     ```sh
+     python ddr2key.py
+     ```
 ---
 
 **Why Was This Written?**
