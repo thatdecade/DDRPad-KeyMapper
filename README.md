@@ -39,4 +39,4 @@ Remember: **Press Ctrl+C to exit**
 
 My old DDRGame dance pad is detected in Windows as a **generic HID input device** rather than a proper game controller.  This prevented its use in StepMania. 
 
-I tested my pad on [HardwareTester.com](https://hardwaretester.com/gamepad),  which confirmed the dance pad was sending inputs, but it wasn't detected by Joy2Key.
+I tested my pad on [HardwareTester.com](https://hardwaretester.com/gamepad),  which confirmed the dance pad was sending inputs, but it wasn't detected by Joy2Key.  JoyToKey reported 0 Joystick Detected...
